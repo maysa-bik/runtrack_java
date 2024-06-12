@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Jour01.job14.Sum",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "NumberSequence",
+            "request": "launch",
+            "mainClass": "Jour01.job13.NumberSequence",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "SwapStrings",
+            "request": "launch",
+            "mainClass": "Jour01.job12.SwapStrings",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "TimeConverter",
+            "request": "launch",
+            "mainClass": "Jour01.job11.TimeConverter",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "Jour01.job10.UserInput",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "MyString",
+            "request": "launch",
+            "mainClass": "Jour01.job09.MyString",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "Facture",
+            "request": "launch",
+            "mainClass": "Jour01.job08.Facture",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Jour01.job07.Addition",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "ExerciceVariables",
+            "request": "launch",
+            "mainClass": "Jour01.job06.ExerciceVariables",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "Calcul",
+            "request": "launch",
+            "mainClass": "Jour01.job05.Calcul",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "DeclarationVariable",
+            "request": "launch",
+            "mainClass": "Jour01.job04.DeclarationVariable",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld(1)",
+            "request": "launch",
+            "mainClass": "Jour01.job03.HelloWorld",
+            "projectName": "runtrack_java_55cd24be"
+        }
+    ]
+}
