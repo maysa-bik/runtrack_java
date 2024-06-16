@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CombinaisonsDes",
+            "request": "launch",
+            "mainClass": "Jour02.job12.CombinaisonsDes",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Jour02.job11.Triangle",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "SommeChiffres",
+            "request": "launch",
+            "mainClass": "Jour02.job10.SommeChiffres",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "PremierDernierChiffre",
+            "request": "launch",
+            "mainClass": "Jour02.job09.PremierDernierChiffre",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "CompteChiffres",
+            "request": "launch",
+            "mainClass": "Jour02.job08.CompteChiffres",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "Factorielle",
+            "request": "launch",
+            "mainClass": "Jour02.job07.Factorielle",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "SommeNombresPairs",
+            "request": "launch",
+            "mainClass": "Jour02.job06.SommeNombresPairs",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "WorkingAgeCheker",
+            "request": "launch",
+            "mainClass": "Jour02.job05.WorkingAgeCheker",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "WorkingAgeChecker",
+            "request": "launch",
+            "mainClass": "Jour02.job05.WorkingAgeChecker",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumbers",
+            "request": "launch",
+            "mainClass": "Jour02.job04.EvenNumbers",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "Jour02.job03.MultiplicationTable",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "Numbers2",
+            "request": "launch",
+            "mainClass": "Jour02.job02.Numbers2",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "Numbers",
+            "request": "launch",
+            "mainClass": "Jour02.job01.Numbers",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
             "name": "Sum",
             "request": "launch",
             "mainClass": "Jour01.job14.Sum",
