@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumCalculator",
+            "request": "launch",
+            "mainClass": "Jour04.job08.SumCalculator",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "ParallelSum",
+            "request": "launch",
+            "mainClass": "Jour04.job07.ParallelSum",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "SequentialSum",
+            "request": "launch",
+            "mainClass": "Jour04.job06.SequentialSum",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "ParallelCounting",
+            "request": "launch",
+            "mainClass": "Jour04.job05.ParallelCounting",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "SequentialCounting",
+            "request": "launch",
+            "mainClass": "Jour04.job04.SequentialCounting",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "RSG",
+            "request": "launch",
+            "mainClass": "Jour04.job03.RSG",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "RandomStringGenerator",
+            "request": "launch",
+            "mainClass": "Jour04.job02.RandomStringGenerator",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
+            "name": "ThreadProject",
+            "request": "launch",
+            "mainClass": "Jour04.job01.ThreadProject",
+            "projectName": "runtrack_java_55cd24be"
+        },
+        {
+            "type": "java",
             "name": "TriMatrice",
             "request": "launch",
             "mainClass": "Jour03.job08.TriMatrice",
