@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JavaFXProject"
+        },
+        {
+            "type": "java",
             "name": "SumCalculator",
             "request": "launch",
             "mainClass": "Jour04.job08.SumCalculator",
